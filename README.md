@@ -1,4 +1,11 @@
-### Hi there 👋
+### Welcome ! 👋
+
+- 🔭 I’m currently working on FreeCodeCamp's 'Scientific computing with python' projects.
+- 🌱 I’m currently learning C++ in University and Python with side projects.
+- 💻 I'm currently looking for an internship.
+- 👯 I’m looking to collaborate on python projects for data analysis.
+- 📫 E-mail : yassine.bendimerad@icloud.com
+
 
 <!--
 **bm-Yassine/bm-Yassine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
